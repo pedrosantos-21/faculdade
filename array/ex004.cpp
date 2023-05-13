@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
 
-    double preco[10] {14.55, 1.1, 2, 9.68};
+    double preco[10] = {14.55, 1.1, 2, 9.68};
 
     for(int i = 0; i<=9; i++){
    //           preco[i] = 0
