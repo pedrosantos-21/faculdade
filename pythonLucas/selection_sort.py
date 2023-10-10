@@ -1,6 +1,3 @@
-
-
-
 lista = [7,5,8,1,3]
 
 #defninção da lista não ordernada
